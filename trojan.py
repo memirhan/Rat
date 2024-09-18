@@ -90,6 +90,7 @@ class Baglama:
     def helpMenu(self):
         return """
         Kullanılabilir Komutlar:
+        Bu proje github.com/memirhan 'a aittir.
         - cd [cd Masaüstü]: Belirtilen klasöre geçiş yapar.
         - oluştur [oluştur örnek.txt hacklendin] Dosya Oluşturur
         - indir [indir örnek.txt]: Belirtilen dosyayı indirir.
