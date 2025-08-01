@@ -10,7 +10,6 @@ class Baglama:
 
         self.baglanti.bind((ip,port))
         self.baglanti.listen(5)
-        print("https://github.com/memirhan")
         print("Dinlemeye Başladı ")
 
         self.baglan,adres = self.baglanti.accept()
